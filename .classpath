@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="nc/source"/>
+	<classpathentry kind="lib" path="jars/GraphUtils.jar"/>
+	<classpathentry kind="lib" path="jars/MathUtils.jar"/>
+	<classpathentry kind="lib" path="jars/Matrix.jar"/>
+	<classpathentry kind="lib" path="jars/PiUtils.jar"/>
+	<classpathentry kind="lib" path="jars/PointUtils.jar"/>
+	<classpathentry kind="lib" path="jars/PrimeUtils.jar"/>
+	<classpathentry kind="lib" path="jars/RandomUtils.jar"/>
+	<classpathentry kind="lib" path="jars/RootUtils.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="nc/classes"/>
+</classpath>
